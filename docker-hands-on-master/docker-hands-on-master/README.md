@@ -1,4 +1,4 @@
-# 도커 입문 hands-on
+# 도커 hands-on 
 
 - [PART1. Docker image and container](PART1-docker-image-and-container)
 - [PART2. Build docker image](PART2-build-docker-image)
